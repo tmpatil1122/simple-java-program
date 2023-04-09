@@ -1,3 +1,5 @@
+
+//Code of addition using input of two numbers
 import java.util.*;
 
 public class InputSum {
